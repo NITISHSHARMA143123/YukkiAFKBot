@@ -19,6 +19,9 @@ A Powerful Telegram AFK Bot written in pyrogram using MongoDB as database and wi
 - [Telegram API Key](https://docs.pyrogram.org/intro/setup#api-keys)
 - [Telegram Bot Token](https://t.me/botfather)
 - [MongoDB URI](https://notreallyshikhar.gitbook.io/yukkimusicbot/deployment/mongodb)
+ ## 🚈🚃🚋🚃🚋 Railway deployment
+ 
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/cI5AcZ?referralCode=FlyO6O)
 
 ## 🚀 Heroku Deployment
 
